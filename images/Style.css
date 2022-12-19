@@ -86,7 +86,7 @@ nav ul li  a:hover::after{
 
 .shape{
     width: 40%;
-    height: 80%;
+    height: 85%;
     position: absolute;
     bottom: 0;
     right: 100px;
@@ -408,7 +408,7 @@ nav .fas{
 
     .shape{
         width: 60%;
-        height: 35%;
+        height: 30%;
         position: top;
         align-items: top;
         bottom: 370px;
